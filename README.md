@@ -1,2 +1,2 @@
 # RPi-4-Temp
-Raspberry Pi 4 Temperatur GUI (python (eel))
+Displays you your Raspberry PI Temp. in a small GUI made with Python.
